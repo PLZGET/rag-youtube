@@ -1,0 +1,9 @@
+Java Programming Introduction
+
+Java is a class-based, object-oriented programming language designed to have as few implementation
+dependencies as possible. It was developed by Sun Microsystems and released in 1995.
+
+Key Features:
+- Platform independent
+- Strong memory management
+- Robust and secure
