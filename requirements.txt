@@ -10,3 +10,4 @@ chromadb
 langchain-groq
 python-dotenv
 langchain-openai
+langchain-ollama
